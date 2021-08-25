@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunaycansev&label=Profile%20views&color=0e75b6&style=flat" alt="sunaycansev" /> </p>
 
-- 🎓 I'm currently Senior Student in Erciyes University Faculty of Law
+- 🎓 I'm currently a Senior Student at Erciyes University Faculty of Law
 
 - 💻 I am highly motivated and disciplined self-taught software developer who's trying to learn something new everyday.
 
