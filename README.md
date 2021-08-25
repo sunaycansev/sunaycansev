@@ -6,7 +6,7 @@
 
 - 🎓 I'm currently a Senior Student at Erciyes University Faculty of Law
 
-- 💻 I am highly motivated and disciplined self-taught software developer who's trying to learn something new everyday.
+- 💻 I am a highly motivated and disciplined self-taught software developer who's trying to learn something new every day.
 
 - 🌱 Currently trying to get better at  **Reactjs**
 
