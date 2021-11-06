@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sunay Cansev</h1>
 <!-- <h3 align="center">A passionate frontend developer from Turkey</h3> -->
-<h3 align="center">Hello, I'm Ferhat Sunay Cansev,Senior Law Student and Software Developer from Turkey</h3>
+<h3 align="center">A passionate frontend  Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunaycansev&label=Profile%20views&color=0e75b6&style=flat" alt="sunaycansev" /> </p>
 
-- 🎓 I'm currently a Senior Student at Erciyes University Faculty of Law
 
 - 💻 I am a highly motivated and disciplined self-taught software developer who's trying to learn something new every day.
 
