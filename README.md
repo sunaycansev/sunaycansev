@@ -10,7 +10,7 @@
   
 - 📫 How to reach me **fsunaycansev@gmail.com**
 
-- 📝 2022 Goals: Learn Nodejs and continue to enhance my HTML, CSS and JS skills.
+- 📝 2022 Goals: Learn Nodejs and continue to enhance my CSS and JS skills.
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
