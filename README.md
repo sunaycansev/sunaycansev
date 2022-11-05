@@ -4,14 +4,14 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunaycansev&label=Profile%20views&color=0e75b6&style=flat" alt="sunaycansev" /> </p>  
   
-- 🌱 I’m currently learning **Nodejs, MongoDB, Tailwind**  
+- 🌱 I’m currently learning **Nodejs, MongoDB, Tailwind, Graphql**  
   
 - 💬 Ask me about **Vue.js,  ReactJS,  CSS, HTML5**  
   
-- 📫 How to reach me **fsunaycansev@gmail.com**  
+- 📫 How to reach me **fsunaycansev@gmail.com**
 
-- 📝  2022 Goals: Learn Nodejs and continue to enhance my HTML, CSS and JS skills. 
-  
+- 📝 2022 Goals: Learn Nodejs and continue to enhance my HTML, CSS and JS skills.
+
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
 <a href="https://linkedin.com/in/fsunaycansev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fsunaycansev" height="30" width="40" /></a>  
