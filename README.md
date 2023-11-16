@@ -1,16 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ferhat Sunay Cansev</h1>  
 <h3 align="center">A passionate frontend developer from Turkey</h3>  
-<p> Self-thought and highly motivated Front End Developer. Currently I am trying to master in Vue.js and also I am trying to basics of Nodejs. My biggest hobby is to learn new information and improve myself every day. I always try to keep myself up-to-date, so you can visit my profile from time to time to review my projects and give feedback, which is very pleasing to me.</p>
+<p> Self-thought and highly motivated Front End Developer. Currently I am trying to master in Next.js and Nodejs. My biggest hobby is to learn new information and improve myself every day. I always try to keep myself up-to-date, so you can visit my profile from time to time to review my projects and give feedback, which is very pleasing to me.</p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunaycansev&label=Profile%20views&color=0e75b6&style=flat" alt="sunaycansev" /> </p>  
-  
-- 🌱 I’m currently learning **Nodejs, MongoDB, Tailwind, Graphql**  
-  
-- 💬 Ask me about **Vue.js,  ReactJS,  CSS, HTML5**  
-  
-- 📫 How to reach me **fsunaycansev@gmail.com**
-
-- 📝 2022 Goals: Learn Nodejs and continue to enhance my CSS and JS skills.
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
